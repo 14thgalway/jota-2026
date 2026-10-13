@@ -46,7 +46,11 @@ Featured areas
 * [Innovation Lab](https://www.jotajoti.info/agenda?camp=624)
 * [Amateur Radio Hub](https://www.jotajoti.info/agenda?camp=611)
 * [Celebration Arena](https://www.jotajoti.info/agenda?camp=612)
+* [Minecraft](https://jotajoti.info/activities/minecraft) - minecraft.jotajoti.info
 
+Note:
+
+* It is unlikely we'll have the minecraft game installed on the computers we will be using.
 
 ## How to organize your JOTA-JOTI weekend
 
@@ -57,6 +61,46 @@ Featured areas
 5. To see and manage all the activities you’ve chosen, go to the “My Agenda” section in your profile. This will help you stay organized and make the most of the weekend.
 
 
+## Volunteer section
 
+This section is for the Centripetal volunteers who are helping on the day. 
+
+Our job will be to assist with the registration of youth members onto the JOTI website. This will take two forms
+
+1. Youth members without an email address. These will be cubs scouts, between the ages of 9 and 11.
+2. Youth members with an email address. These will be the Scouts and Venture Scouts who will >12 years of age. They will probably require little or no assistance
+
+How to register a child (<12)
+
+* Under the My Account option at the top right habd corner, select "Register Child"
+* Supply the name. Gender, age group and country.
+* You can register more than one child in a single request.
+* You will receive an email with the child's login details
+
+The cubs will primarily using the chat rooms to talk to other scouts. These links will be available on Saturday:
+
+* https://chat.jotajoti.info/
+* https://www.scoutlink.net/
+
+## Conversation starters
+
+[Conversation starters](https://www.scout.org/news/conversation-starters) for meeting Scouts around the world
+
+1. Where are you from?
+2. What language(s) do you speak?
+3. When and where was your first Scout camp?
+4. What colour is your Scout group’s scarf/neckerchief?
+5. What is your favourite Scouting activity?
+6. Do you have a favourite badge?
+7. How would you describe yourself in three words?
+8. What is the typical dish of your country?
+9. If you could travel anywhere in the world right now, where would you go?
+10. Do you have a favourite Scout song or dance? Can you show it to me? 
+
+As Baden Powell said:
+
+> “A Scout is a friend to all”. 
+
+Let's not be afraid to go out into the world and meet new people. Let's take the first step and start new conversations. Let’s create friendships that will last a lifetime!
 
 
