@@ -4,6 +4,9 @@ The purpose of this document is to prepare members and supports of [14th Galway 
 
 The event will be held in [Mervue industrial park](https://www.google.com/maps/place/Centripetal+Ireland/@53.2850775,-9.0272954,17z/data=!3m1!4b1!4m6!3m5!1s0x688d7288f6cf7bf:0xacdb5f235e74e8e7!8m2!3d53.2850775!4d-9.0272954!16s%2Fg%2F11y1d1dz2h?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D), and will be hosted by [Centripetal Ireland](https://www.centripetal.ai/)
 
+## Agenda
+
+* [Schedule of events](Agenda.md)
 
 ## What is JOTA/JOTI
 
